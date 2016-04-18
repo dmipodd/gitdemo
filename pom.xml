@@ -8,6 +8,7 @@
   <packaging>jar</packaging>
 
   <name>gitdemo</name>
+  <description>aaaaaaaaaaaaaaaaaa</description>
   <url>http://maven.apache.org</url>
 
   <properties>
