@@ -28,7 +28,7 @@
 		<artifactId>spring-aop</artifactId>
 	</dependency>
 	<dependency>
-		<groupId>AAAAAAAAAAAAAAAAAAAorg.springframework</groupId>
+		<groupId>org.springframework</groupId>
 		<artifactId>spring-core</artifactId>
 	</dependency>
   </dependencies>
